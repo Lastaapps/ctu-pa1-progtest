@@ -1,0 +1,4 @@
+Pocet sledovanych:
+Pozadavky:
+1. Ahoj, 32886x
+Nejprodavanejsi zbozi: prodano 32886 kusu

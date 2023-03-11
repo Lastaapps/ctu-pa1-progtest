@@ -1,0 +1,5 @@
+Zkratka:
+Problemy:
+> limit 1: 4
+> limit 2: 7
+> limit 3: 7

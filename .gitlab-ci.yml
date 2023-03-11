@@ -1,0 +1,9 @@
+
+default:
+  image: gcc
+  script:
+    - cd ci
+    - chmod +x *.sh
+    - ./run_tests.sh
+
+

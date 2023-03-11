@@ -1,0 +1,178 @@
+3
++ Ahoj
++ Ahoj
++ Nazdar
++ Servus
++ No_potes
++ Servus
++ No_potes
++ Servus
++ No_potes
++ No_potes
++ Ahoj
++ Ahoj
++ Nazdar
++ Servus
++ No_potes
++ Servus
++ No_potes
++ Servus
++ No_potes
++ No_potes
++ Ahoj
++ Ahoj
++ Nazdar
++ Servus
++ No_potes
++ Servus
++ No_potes
++ Servus
++ No_potes
++ No_potes
++ Ahoj
++ Ahoj
++ Nazdar
++ Servus
++ No_potes
++ Servus
++ No_potes
++ Servus
++ No_potes
++ No_potes
++ Ahoj
++ Ahoj
++ Nazdar
++ Servus
++ No_potes
++ Servus
++ No_potes
++ Servus
++ No_potes
++ No_potes
++ Ahoj
++ Ahoj
++ Nazdar
++ Servus
++ No_potes
++ Servus
++ No_potes
++ Servus
++ No_potes
++ No_potes
++ Ahoj
++ Ahoj
++ Nazdar
++ Servus
++ No_potes
++ Servus
++ No_potes
++ Servus
++ No_potes
++ No_potes
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#

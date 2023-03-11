@@ -1,0 +1,12 @@
+Zkratka:
+Problemy:
+"FIbonacci   Test"
+"FIbonacci   tesT"
+"FibonaccI   Test"
+"FibonaccI   tesT"
+> 4
+"  FIbonacci   Test   "
+"  FIbonacci   tesT   "
+"  FibonaccI   Test   "
+"  FibonaccI   tesT   "
+> 4

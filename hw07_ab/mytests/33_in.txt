@@ -1,0 +1,3 @@
+FIT
+? 2   "Fibonacci   test"
+? 2   "  Fibonacci   test   "

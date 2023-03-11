@@ -1,0 +1,9 @@
+Zkratka:
+Problemy:
+"MAtematika RAdoSTne"
+"MatemAtika RAdoSTne"
+"MatematikA RAdoSTne"
+"mateMAtika RAdoSTne"
+"mateMatikA RAdoSTne"
+> 5
+> 0

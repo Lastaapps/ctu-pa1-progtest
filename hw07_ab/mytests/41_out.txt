@@ -1,0 +1,6 @@
+Zkratka:
+Problemy:
+> limit 1: 238
+> limit 2: 321
+> limit 3: 324
+> limit 4: 324
